@@ -63,7 +63,7 @@ The analysis for this project was performed on the `BlinkIT Grocery Data.csv` fi
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/VijaySaiBorru/BlinkIt_Analysis.git](https://github.com/VijaySaiBorru/BlinkIt_Analysis.git)
+    git clone https://github.com/VijaySaiBorru/BlinkIt_Analysis.git
     ```
 2.  **Launch the Dashboard:**
     * Open the `.pbix` project file using Power BI Desktop.
