@@ -47,14 +47,22 @@ This analysis revealed several key trends that can directly inform strategic dec
 
 * **BI Tool:** Microsoft Power BI
 * **Core Language:** DAX (Data Analysis Expressions)
-* **Data Source:** `BlinkIT Grocery Data.csv`
+
+---
+
+## 📜 Data Source & Acknowledgements
+
+The analysis for this project was performed on the `BlinkIT Grocery Data.csv` file. This is a publicly available, open-source dataset.
+
+* **Source:** The dataset was obtained from an online open-source platform.
+* **Disclaimer:** This project is for educational and portfolio purposes to demonstrate data analysis and visualization skills. The focus is on the transformation of raw data into actionable business intelligence, not on the collection of the data itself.
 
 ---
 
 ## 🚀 How to Use This Project
 
 1.  **Clone the repository:**
-    ```bash 
+    ```bash
     git clone [https://github.com/VijaySaiBorru/BlinkIt_Analysis.git](https://github.com/VijaySaiBorru/BlinkIt_Analysis.git)
     ```
 2.  **Launch the Dashboard:**
